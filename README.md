@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YunDongHwan&show_icons=true&theme=radical)
- 
+ https://img.shields.io/badge/-[42seoul]-[#000000]?style=flat&logo=[seoul]
 <!--
 **YunDongHwan/YunDongHwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
