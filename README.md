@@ -1,17 +1,18 @@
-# Hello~ This is Doyun's Git
-
+# Have a nice day
 ### Git status
 
 ![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YunDongHwan&show_icons=true&theme=maroongold)
 
-&nbsp;
 ### Top Langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunDongHwan&layout=compact)
 
 
+##### Languages
+<img src="https://img.shields.io/badge/seoul-000000?style=flat-square&logo=42&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/seoul-000000?style=flat-square&logo=42&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> 
+##### Platform
+<img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> 
 
 
  
