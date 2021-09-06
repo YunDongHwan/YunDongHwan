@@ -1,11 +1,11 @@
-# h1 Hello~ This is Doyun's Git
+# Hello~ This is Doyun's Git
 
-# h3 Git status
+### Git status
 
 ![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YunDongHwan&show_icons=true&theme=maroongold)
 
 &nbsp;
-# h3 Top Langs
+### Top Langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunDongHwan&layout=compact)
 
