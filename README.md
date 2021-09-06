@@ -1,4 +1,4 @@
-# Have a nice day
+# Have a nice day	&#128513;
 ### Git status
 
 ![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YunDongHwan&show_icons=true&theme=maroongold)
