@@ -3,6 +3,9 @@
 
 ![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YunDongHwan&show_icons=true&theme=maroongold)
 
+### 42Seoul
+[![doyun's 42 stats](https://badge42.herokuapp.com/api/stats/daekim?privacyEmail=true)](https://github.com/doyun)
+
 ### Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunDongHwan&layout=compact)
 
