@@ -10,7 +10,7 @@
 ### Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunDongHwan&layout=compact)
 
-### Back joon
+### Backjoon
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=qorwnsehdghks)](https://solved.ac/profile/****)
 
 ---
