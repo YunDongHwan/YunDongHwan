@@ -4,7 +4,7 @@
 ![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YunDongHwan&show_icons=true&theme=maroongold)
 
 ### 42Seoul
-[![doyun's 42 stats](https://badge42.herokuapp.com/api/stats/doyun?privacyEmail=true)](https://github.com/doyun)
+[![doyun's 42 stats](https://badge.mediaplus.ma/colorfulwaves/doyun)](https://github.com/oakoudad/badge42)
 
 ### Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunDongHwan&layout=compact)
@@ -43,4 +43,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+refer link : https://github.com/oakoudad/badge42#colorful-waves-
 -->
