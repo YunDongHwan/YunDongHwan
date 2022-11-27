@@ -13,11 +13,6 @@
 ### Backjoon
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=qorwnsehdghks)](https://solved.ac/profile/****)
 
-
-### Being
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ---
 ### 기술 스택
 #### Strangth
