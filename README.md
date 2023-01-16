@@ -5,16 +5,17 @@
 ### 42Seoul
 [![doyun's 42 stats](https://badge.mediaplus.ma/colorfulwaves/doyun)](https://github.com/oakoudad/badge42)
 
-
-### Git status
+---
+## Git status
 ![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YunDongHwan&theme=maroongold)
 [![trophy](https://github-profile-trophy.vercel.app/?username=YunDongHwan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunDongHwan&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Backjoon
+---
+## Backjoon
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=qorwnsehdghks)](https://solved.ac/profile/****)
 
 ---
@@ -27,15 +28,10 @@ src="https://img.shields.io/badge/Nestjs-E0234E.svg?style=for-the-badge&logo=Nes
 
 
 
-
----
 ##### ✈️Platforms & Tools
 <img src="https://img.shields.io/badge/seoul-000000?style=for-the-badge&logo=42&logoColor=white"><img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
-
-
-
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40flfns333&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Velog&edge_flat=false)](https://hits.seeyoufarm.com)
  
 <!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 **YunDongHwan/YunDongHwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
