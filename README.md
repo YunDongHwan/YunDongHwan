@@ -1,8 +1,8 @@
 # Have a nice day😎	
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=This'sYunDognHwan!&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=This'sYunDognHwan!&fontSize=70&animation=fadeIn)
 
 ### Git status
-![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YunDongHwan&show_icons=true&theme=maroongold)
+![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YunDongHwan&theme=maroongold)
 [![trophy](https://github-profile-trophy.vercel.app/?username=YunDongHwan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 42Seoul
@@ -15,17 +15,20 @@
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=qorwnsehdghks)](https://solved.ac/profile/****)
 
 ---
-### 기술 스택
-#### Strangth
-<img src="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logo=C++&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white"><img
-src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
+### Teck Stack
+#### Languages & Framework
+<img src="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logo=C++&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img
+src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"><img
+src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"><img
+src="https://img.shields.io/badge/Nestjs-E0234E.svg?style=for-the-badge&logo=Nestjs&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white">
 
 
 
 
 ---
-##### ✈️Platform
-<img src="https://img.shields.io/badge/seoul-000000?style=for-the-badge&logo=42&logoColor=white"><img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+##### ✈️Platforms & Tools
+<img src="https://img.shields.io/badge/seoul-000000?style=for-the-badge&logo=42&logoColor=white"><img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+
 
 
 
