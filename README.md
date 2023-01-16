@@ -1,12 +1,15 @@
 # Have a nice day😎	
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=This'sYunDognHwan!&fontSize=70&animation=fadeIn)
 
+## Experience
+### 42Seoul
+[![doyun's 42 stats](https://badge.mediaplus.ma/colorfulwaves/doyun)](https://github.com/oakoudad/badge42)
+
+
 ### Git status
 ![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YunDongHwan&theme=maroongold)
 [![trophy](https://github-profile-trophy.vercel.app/?username=YunDongHwan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 42Seoul
-[![doyun's 42 stats](https://badge.mediaplus.ma/colorfulwaves/doyun)](https://github.com/oakoudad/badge42)
 
 ### Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunDongHwan&layout=compact)
