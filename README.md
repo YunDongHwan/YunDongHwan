@@ -1,5 +1,5 @@
 # Have a nice day😎	
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=This'sYunDognHwan!&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=This'sYunDongHwan!&fontSize=70&animation=fadeIn)
 
 ## Experience
 ### 42Seoul
